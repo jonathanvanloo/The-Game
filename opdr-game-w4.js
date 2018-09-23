@@ -1,0 +1,17 @@
+
+if (prompt ("je landt op de straat \"in den ministergärten\" met een propellervliegtuig, aan het einde van de straat licht de führerbunkker volgens je contact persoon. ga je met je pieloot naar  binnen of aleen?") === "aleen") {
+	if (prompt ("je gaat aleen naar binnen je wacht todat je bij de tweena laatste treede van de trap bent die de tienmeter diepe bunker in lijd en je kijkt het hoekje om. je ziet twee bewaakers die met hun rggen naar jou toe staan ga je ze vermoorden met een pistool of met een mes?") === "mes") {
+		if (prompt ("je pakt je mesen een in elke hand een en sluipt naar ze toe en steekt ze in hun nek je vankt ze gelijk op zodar ze niet hard vallen.    je gaat door de twee deuren die de bunker in lijden        je ziet een deur aan je linker en een aan je rechter handdoor welke ga je?") === "rechts") {
+			if (prompt ("je gaat rechts endoet de deur langzaam open terwijl je de hoeken van links naar rechts checked er is niemand aleen een klijn bureau met een radio en een doosje met geld en een sleutel, je neemt het geld en de sleutel mee.       je gaat weer naar de gang je hoort in de linker kamer honden dus slaat die over de tweede deur rechts heeft een raampje in de deur je kijkt en ziet niemand dus je gaat verder.        dan zie je een bepanserde deur met een sleutelgat, je steekt de sleutel in het gat je doet de deur langzaam open, dan zie je twee deuren links en een rechts door welke ga je eerst?") === "rechts") {
+				if (prompt ("je gaat door de rechter deur en je merkt op dat het warm is en het er stinkt, in de kamer zie je een dureau met een lijst waar doorgekraste namen erop en voor de rest twee deuren de deur het dichtst bij jou met een raampje je kijkt door het raampje en ziet vier douchekoppen en voor de rest niks, je gaat naar de tweede deur die doe je langzaam open en zodra die open gaat weet je waar die stank vandaan komt je doet hem verder open en je ziet een stapel lichamen van wel twintig man je gooit hem snel dicht. oops dat was te hard, je hoord voetstappen op de gang en gelijk gooi je het bureau om en gaat er achter zitten met de loop van je wapen op de deur gericht je ziet de deur open geschopt worden en dan drie soldaten naar binnen rennen, je schiet zze allemaal dood.... zodra het weer stil is ga je weer de kamer uit je ziet dat de deur tegenover jou open staat met stoelen en een tafel met katren erop, je gaat verder naar de laatste deur je gooit hem open en je ziet der Führer....     scheit je hem dood of help je hem") === "helpen") {
+					alert ("je neemt hem mee in je vliegtuig en vliegt naar brazielië daar wacht een raket op het doe naar de maan gaat naar het hoofdkwartier van de nazi's");
+				}else {alert("jullie gaan alebij naar binnen maar je pieloot maakt teveel lawaai dus ze hoorde jullie aan komen en nu ben je dood!");
+				}
+			}else {alert("je pakt je mes en steekt hem dood!");
+			}
+		}else {alert("je doet de linker deur open en je ziet 3 soldaten aan het kaarten en schieten je dood!");
+		}
+	}else {alert("je duet de linker deur open en er schieten gelijk twee vechthonden uit en bijten je dood!");
+	}
+}else {alert("je schiet op ze met je pistol maar hun panser is te dik en ze schieten je dood!");
+}
